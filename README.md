@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-4&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-4" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://arnab-4.github.io/Portfolio/)
+- 🔭 I’m currently working on [Portfolio](https://arnab-4.github.io/Arnab-s-portfolio/)
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://arnab-4.github.io/Portfolio/](https://arnab-4.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://arnab-4.github.io/Arnab-s-portfolio/](https://arnab-4.github.io/Arnab-s-portfolio/)
 
 - 📫 How to reach me **arnabmanna203@gmail.com**
 
