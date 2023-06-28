@@ -32,5 +32,6 @@
 
 [![arnab-4's GitHub | Stats](https://stats.quine.sh/arnab-4/github?theme=dark)](https://quine.sh)
 
+[![arnab-4's GitHub | Topics](https://stats.quine.sh/arnab-4/topics-over-time?theme=dark)](https://quine.sh)
 
 
