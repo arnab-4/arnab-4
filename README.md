@@ -28,8 +28,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-4&show_icons=true&locale=en&layout=compact" alt="arnab-4" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-4&" alt="arnab-4" /></p>
 
 [![arnab-4's GitHub | Stats](https://stats.quine.sh/arnab-4/github?theme=dark)](https://quine.sh)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-4&" alt="arnab-4" /></p>
+
 
