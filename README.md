@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-4&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-4" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://arnab-4.github.io/Arnab-s-portfolio/)
+- 🔭 I’m currently working on [Portfolio](https://arnab-portfolio-v2.vercel.app/)
 
 - 🌱 I’m currently learning **Backend**
 
