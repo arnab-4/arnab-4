@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://arnab-4.github.io/Arnab-s-portfolio/](https://arnab-4.github.io/Arnab-s-portfolio/)
+- 👨‍💻 All of my projects are available at [https://arnab-portfolio-v2.vercel.app/](https://arnab-portfolio-v2.vercel.app/)
 
 - 💬 Ask me about **DSA , React , Vue etc.**
 
